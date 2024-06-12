@@ -3,11 +3,10 @@
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
 🌱 &nbsp;Estoy en camino de aprender más sobre lenguajes de programacion y diseño de sistemas.\
 ✍️ &nbsp;En mi tiempo libre, me dedico a desarrollo de video juegos como pasatiempos o actividades secundarias.\
 💬 &nbsp;No dudes en comunicarte conmigo para realizar consultoría y voluntariado pro bono, o simplemente para tener una conversación interesante.\
-✉️ &nbsp; ¡Puedes enviarme un correo electrónico a avsingh@umass.edu! Intentaré responder tan pronto como pueda!.\
+✉️ &nbsp;¡Puedes enviarme un correo electrónico a avsingh@umass.edu! Intentaré responder tan pronto como pueda!.\
 📄 &nbsp;Eche un vistazo a mi [Currículum vitae] (https://portafolioangel-imangelggs-projects.vercel.app/) para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -22,8 +21,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={iMangelGG}&theme=blue-green
-
+## Estadísticas de Lenguajes Utilizados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iMangelGG&theme=blue-green)
