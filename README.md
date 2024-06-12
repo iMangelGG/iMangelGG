@@ -25,6 +25,11 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
+## Mis Proyectos
+- [Proyecto 1](https://github.com/iMangelGG/CloneAppleStore)
+- [Proyecto 2](https://github.com/iMangelGG/proyecto2)
+
+
 
 ## Estadísticas de Lenguajes Utilizados
 ![Lenguajes mas utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=iMangelGG&theme=blue-green)
