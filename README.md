@@ -7,7 +7,7 @@
 ✍️ &nbsp;En mi tiempo libre, me dedico a desarrollo de video juegos como pasatiempos o actividades secundarias.\
 💬 &nbsp;No dudes en comunicarte conmigo para realizar consultoría y voluntariado pro bono, o simplemente para tener una conversación interesante.\
 ✉️ &nbsp;¡Puedes enviarme un correo electrónico a avsingh@umass.edu! Intentaré responder tan pronto como pueda!.\
-📄 &nbsp;Eche un vistazo a mi [Currículum vitae] (https://portafolioangel-imangelggs-projects.vercel.app/) para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
+📄 &nbsp;Eche un vistazo a mi [Portafolio] ([https://portafolioangel-imangelggs-projects.vercel.app/]) para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
