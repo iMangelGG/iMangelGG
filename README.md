@@ -1,3 +1,5 @@
+<img src="https://giffiles.alphacoders.com/165/16554.gif" width="100%">
+
 <h1 align="center">Hola , Soy Angel Renato <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
@@ -11,7 +13,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tecnologias
+### 🛠 &nbsp;Tecnologias <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 )&nbsp;
@@ -25,12 +27,10 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-## Mis Proyectos
-- [Proyecto 1](https://github.com/iMangelGG/CloneAppleStore)
-- [Proyecto 2](https://github.com/iMangelGG/proyecto2)
+# 📊Estadisticas de GitHub:
+![](https://github-readme-stats.vercel.app/api?username=iMangelGG&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=iMangelGG&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iMangelGG&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-## Estadísticas de Lenguajes Utilizados
-![Ni idea](https://github-readme-stats.vercel.app/api?username=iMangelGG&theme=blue-green)
-![Lenguajes mas utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=iMangelGG&theme=blue-green)
+## 🏆Trofeos GitHub
+![](https://github-profile-trophy.vercel.app/?username=iMangelGG&theme=discord&no-frame=false&no-bg=false&margin-w=4)
