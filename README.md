@@ -32,4 +32,5 @@
 
 
 ## Estadísticas de Lenguajes Utilizados
+![Ni idea](https://github-readme-stats.vercel.app/api?username=iMangelGG&theme=blue-green)
 ![Lenguajes mas utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=iMangelGG&theme=blue-green)
